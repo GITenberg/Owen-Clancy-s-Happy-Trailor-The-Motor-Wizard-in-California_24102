@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3848
     wikipedia: http://en.wikipedia.org/wiki/Burt_L._Standish
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24102#Owen-Clancy-s-Happy-Trailor-The-Motor-Wizard-in-California
 gutenberg_issued: '2008-01-01'
 gutenberg_type: Text
 identifiers:

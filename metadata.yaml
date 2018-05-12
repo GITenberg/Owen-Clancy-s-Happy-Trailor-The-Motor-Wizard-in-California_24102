@@ -1,0 +1,35 @@
+_repo: Owen-Clancy-s-Happy-Trailor-The-Motor-Wizard-in-California_24102
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24102-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Patten, Gilbert
+    - Wilder, William W. (William West)
+    - Patten, George William
+    - Patten, William G. (William Gilbert)
+    - Patten, William Gilbert
+    - Wilder, William West
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: http://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_issued: '2008-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24102'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Detective and mystery stories'
+title: Owen Clancy's Happy Trail; Or, The Motor Wizard in California
+url: http://www.gutenberg.org/ebooks/24102
